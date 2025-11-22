@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Normative/KolvoAndKachvo.md",
+                "file": "TupolevITChallenge2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KolvoAndKachvo"
+              "title": "TupolevITChallenge2026"
             }
           }
         ]
@@ -185,16 +185,18 @@
   },
   "active": "8f7251a23faf0827",
   "lastOpenFiles": [
-    "Helpers/HelpFromKirill.md",
-    "Helpers/HelpFromDamir.md",
-    "Normative/StateOfHack.md",
-    "Normative/PredictedResult.md",
+    "Traks/ThemeOfTracks.md",
+    "Normative/ConceptOfHack.md",
+    "TupolevITChallenge2026.md",
     "Normative/PlaceWhereWeDoThis.md",
-    "Normative/NeededResources.md",
-    "Normative/KolvoAndKachvo.md",
+    "Normative/PredictedResult.md",
+    "Helpers/HelpFromDamir.md",
     "Normative/ForWhoThisHack.md",
     "Normative/DatesOfHack.md",
-    "Normative/ConceptOfHack.md",
+    "Normative/StateOfHack.md",
+    "Normative/NeededResources.md",
+    "Normative/KolvoAndKachvo.md",
+    "Helpers/HelpFromKirill.md",
     "Normative/Achievements.md",
     "Partners/OtherPartners.md",
     "Partners/MerchKAI.md",
@@ -205,7 +207,6 @@
     "SMI/StudSovetKAI.md",
     "SMI/MediaDK.md",
     "SMI/Matrix.md",
-    "TupolevITChallenge2026.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
