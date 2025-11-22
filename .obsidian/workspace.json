@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TupolevITChallenge2026.md",
+                "file": "Partners/Experts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TupolevITChallenge2026"
+              "title": "Experts"
             }
           }
         ],
@@ -242,8 +242,8 @@
   },
   "active": "3d11b5347bb4650b",
   "lastOpenFiles": [
-    "README.md",
     "TupolevITChallenge2026.md",
+    "README.md",
     "Normative/StateOfHack.md",
     "Normative/ConceptOfHack.md",
     "Helpers/HelpFromDamir.md",
