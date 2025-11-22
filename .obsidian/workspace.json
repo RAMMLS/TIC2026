@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProblemsAndSolutions/ProblensBagNet.md",
+                "file": "ProblemsAndSolutions/ProblemsTIC2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ProblensBagNet"
+              "title": "ProblemsTIC2025"
             }
           }
         ],
@@ -242,6 +242,7 @@
   },
   "active": "3d11b5347bb4650b",
   "lastOpenFiles": [
+    "ProblemsAndSolutions/ProblensBagNet.md",
     "ProblemsAndSolutions/ProblemsTIC2025.md",
     "Partners/Experts.md",
     "TupolevITChallenge2026.md",
@@ -256,7 +257,6 @@
     "Traks/ThemeOfTracks.md",
     "Normative/DatesOfHack.md",
     "Normative/KolvoPeoplesIn.md",
-    "ProblemsAndSolutions/ProblensBagNet.md",
     "Normative/ForWhoThisHack.md",
     "SMI/MediaDK.md",
     "SMI/StudSovetKAI.md",
