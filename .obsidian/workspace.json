@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partners/OtherPartners.md",
+                "file": "Helpers/HelpFromDamir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OtherPartners"
+              "title": "HelpFromDamir"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "8f7251a23faf0827",
   "lastOpenFiles": [
+    "Partners/OtherPartners.md",
+    "Helpers/HelpFromDamir.md",
     "TupolevITChallenge2026.md",
     "Partners/Experts.md",
     "Partners/FinanceHelp.md",
@@ -192,7 +194,6 @@
     "Normative/ConceptOfHack.md",
     "Normative/PlaceWhereWeDoThis.md",
     "Normative/PredictedResult.md",
-    "Helpers/HelpFromDamir.md",
     "Normative/ForWhoThisHack.md",
     "Normative/DatesOfHack.md",
     "Normative/StateOfHack.md",
@@ -200,7 +201,6 @@
     "Normative/KolvoAndKachvo.md",
     "Helpers/HelpFromKirill.md",
     "Normative/Achievements.md",
-    "Partners/OtherPartners.md",
     "Partners/MerchKAI.md",
     "Presentation/Presentation.md",
     "ProblemsAndSolutions/Problems.md",
