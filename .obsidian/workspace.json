@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TupolevITChallenge2026.md",
+                "file": "Partners/OtherPartners.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TupolevITChallenge2026"
+              "title": "OtherPartners"
             }
           }
         ]
@@ -185,9 +185,11 @@
   },
   "active": "8f7251a23faf0827",
   "lastOpenFiles": [
+    "TupolevITChallenge2026.md",
+    "Partners/Experts.md",
+    "Partners/FinanceHelp.md",
     "Traks/ThemeOfTracks.md",
     "Normative/ConceptOfHack.md",
-    "TupolevITChallenge2026.md",
     "Normative/PlaceWhereWeDoThis.md",
     "Normative/PredictedResult.md",
     "Helpers/HelpFromDamir.md",
@@ -200,8 +202,6 @@
     "Normative/Achievements.md",
     "Partners/OtherPartners.md",
     "Partners/MerchKAI.md",
-    "Partners/FinanceHelp.md",
-    "Partners/Experts.md",
     "Presentation/Presentation.md",
     "ProblemsAndSolutions/Problems.md",
     "SMI/StudSovetKAI.md",
