@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Partners/Experts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Experts"
             }
           }
         ],
@@ -242,22 +242,24 @@
   },
   "active": "3d11b5347bb4650b",
   "lastOpenFiles": [
+    "Normative/KolvoPeoplesIn.md",
+    "Normative/ForWhoThisHack.md",
+    "Normative/DatesOfHack.md",
+    "Normative/ConceptOfHack.md",
+    "Normative/Achievements.md",
+    "Helpers/HelpFromKirill.md",
+    "Helpers/HelpFromDamir.md",
+    "README.md",
     "ProblemsAndSolutions/ProblemsTIC2025.md",
     "ProblemsAndSolutions/ProblensBagNet.md",
     "Partners/Experts.md",
     "TupolevITChallenge2026.md",
-    "README.md",
     "Normative/StateOfHack.md",
-    "Normative/ConceptOfHack.md",
-    "Helpers/HelpFromDamir.md",
     "Steck/StekTrack1.md",
     "Steck/SteckTrack3.md",
     "Steck/SteckTrack2.md",
     "Steck/AllAboutStack.md",
     "Traks/ThemeOfTracks.md",
-    "Normative/DatesOfHack.md",
-    "Normative/KolvoPeoplesIn.md",
-    "Normative/ForWhoThisHack.md",
     "SMI/MediaDK.md",
     "SMI/StudSovetKAI.md",
     "SMI/Matrix.md",
@@ -266,8 +268,6 @@
     "Normative/PlaceWhereWeDoThis.md",
     "Normative/PredictedResult.md",
     "Normative/NeededResources.md",
-    "Helpers/HelpFromKirill.md",
-    "Normative/Achievements.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
