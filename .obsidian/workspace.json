@@ -69,12 +69,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Partners/Experts.md",
+=======
+                "file": "ProblemsAndSolutions/ProblemsTIC2025.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Experts"
+=======
+              "title": "ProblemsTIC2025"
+>>>>>>> Stashed changes
             }
           }
         ],
@@ -242,6 +250,7 @@
   },
   "active": "3d11b5347bb4650b",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Normative/KolvoPeoplesIn.md",
     "Normative/ForWhoThisHack.md",
     "Normative/DatesOfHack.md",
@@ -268,6 +277,34 @@
     "Normative/PlaceWhereWeDoThis.md",
     "Normative/PredictedResult.md",
     "Normative/NeededResources.md",
+=======
+    "TupolevITChallenge2026.md",
+    "README.md",
+    "Presentation/Presentation.md",
+    "Partners/MerchKAI.md",
+    "Partners/OtherPartners.md",
+    "ProblemsAndSolutions/ProblemsTIC2025.md",
+    "ProblemsAndSolutions/ProblensBagNet.md",
+    "Partners/Experts.md",
+    "Normative/StateOfHack.md",
+    "Normative/PredictedResult.md",
+    "Normative/PlaceWhereWeDoThis.md",
+    "Normative/NeededResources.md",
+    "Normative/KolvoPeoplesIn.md",
+    "Normative/Achievements.md",
+    "Traks/ThemeOfTracks.md",
+    "Partners/FinanceHelp.md",
+    "Normative/DatesOfHack.md",
+    "Steck/SteckTrack3.md",
+    "Steck/StekTrack1.md",
+    "Steck/AllAboutStack.md",
+    "Steck/SteckTrack2.md",
+    "Untitled.md",
+    "Normative/ConceptOfHack.md",
+    "Helpers/HelpFromDamir.md",
+    "Normative/ForWhoThisHack.md",
+    "SMI/MediaDK.md",
+>>>>>>> Stashed changes
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
