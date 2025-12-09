@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traks/ThemeOfTracks.md",
+                "file": "Helpers/HelpFromKirill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ThemeOfTracks"
+              "title": "HelpFromKirill"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "e7c28bacbc8ab590",
   "lastOpenFiles": [
+    "Helpers/HelpFromDamir.md",
+    "Helpers/HelpFromKirill.md",
+    "Traks/ThemeOfTracks.md",
     "Steck/SteсkTrack1.md",
     "Steck/SteckTrack3.md",
     "Steck/SteckTrack2.md",
@@ -206,8 +209,6 @@
     "Normative/DatesOfHack.md",
     "Normative/ForWhoThisHack.md",
     "Normative/ConceptOfHack.md",
-    "Normative/Achievements.md",
-    "Helpers/HelpFromKirill.md",
-    "Helpers/HelpFromDamir.md"
+    "Normative/Achievements.md"
   ]
 }
